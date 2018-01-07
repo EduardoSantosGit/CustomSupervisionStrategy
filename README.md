@@ -4,7 +4,12 @@
 
     Developed during the course of akka pluralsight
 
-## Used
+## Technologies  
+
+* C#
+* Akka.net
+
+## Implemented
 
 * Lifecycle Actor
 * Hierarchy Actors
